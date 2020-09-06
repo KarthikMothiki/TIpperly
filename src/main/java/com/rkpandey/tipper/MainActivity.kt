@@ -1,4 +1,4 @@
-package com.rkpandey.tipcalculator
+package com.karthikmothiki.tipperly
 
 //import com.example.tipper.*
 import android.animation.ArgbEvaluator
